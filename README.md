@@ -14,7 +14,7 @@ A beautifully crafted sushi-themed website built using HTML, CSS, and JavaScript
 
 ## 🚀 Live Demo
 
-👉 [Live Website](https://your-live-site-link.com)  
+👉 [Live Website](https://vanshchaudhary9837.github.io/sushi-themed-site/)  
 📂 [Source Code](https://github.com/vanshchaudhary9837/sushi-themed-site)
 
 ---
